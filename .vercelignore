@@ -1,0 +1,8 @@
+.git
+.openai
+.taste-skill
+node_modules
+dist
+artifacts
+*.tsbuildinfo
+*.tar.gz

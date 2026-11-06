@@ -1,0 +1,9 @@
+node_modules/
+.vercel/
+dist/
+.DS_Store
+*.tsbuildinfo
+.sites-local/
+.taste-skill/history.json
+artifacts/
+*.tar.gz
